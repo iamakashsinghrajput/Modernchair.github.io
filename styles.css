@@ -134,7 +134,7 @@ label.color-6{
 }
 
 .img-wrap.chair-3{
-    background-image: url(images/chair2.png);
+    background-image: url(images/chair3.png);
 }
 
 .for-color-3:checked ~.img-wrap.chair-3{
@@ -143,7 +143,7 @@ label.color-6{
 }
 
 .img-wrap.chair-4{
-    background-image: url(images/chair2.png);
+    background-image: url(images/chair4.png);
 }
 
 .for-color-4:checked ~.img-wrap.chair-4{
@@ -152,7 +152,7 @@ label.color-6{
 }
 
 .img-wrap.chair-5{
-    background-image: url(images/chair2.png);
+    background-image: url(images/chair5.png);
 }
 
 .for-color-5:checked ~.img-wrap.chair-5{
@@ -161,7 +161,7 @@ label.color-6{
 }
 
 .img-wrap.chair-6{
-    background-image: url(images/chair2.png);
+    background-image: url(images/chair6.png);
 }
 
 .for-color-6:checked ~.img-wrap.chair-6{
